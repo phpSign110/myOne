@@ -32,7 +32,7 @@ function decrypt($sStr, $sKey) {
 	return $decrypted;
 }
 
-$str="acs@abloomy.2017";
+$str="xxxxxxxxxxxx";
 $key="gTrUYb";
 $en=encrypt($str,$key);
 $de=decrypt('e99T663RP77lCYhAQKrwD9mjXxYj4J+ZPSANfKBnL6M=',$key);
