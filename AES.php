@@ -36,4 +36,4 @@ $str="xxxxxxxxxxxx";
 $key="gTrUYb";
 $en=encrypt($str,$key);
 $de=decrypt('e99T663RP77lCYhAQKrwD9mjXxYj4J+ZPSANfKBnL6M=',$key);
-var_dump($en,$de);exit;
+//var_dump($en,$de);exit;
