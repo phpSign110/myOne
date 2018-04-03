@@ -33,7 +33,7 @@ function decrypt($sStr, $sKey) {
 }
 
 $str="xxxxxxxxxxxx";
-$key="gTrUYb";
+$key="gTrUYb11111";
 $en=encrypt($str,$key);
 $de=decrypt('e99T663RP77lCYhAQKrwD9mjXxYj4J+ZPSANfKBnL6M=',$key);
 //var_dump($en,$de);exit;
